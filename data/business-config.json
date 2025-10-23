@@ -1,0 +1,106 @@
+{
+  "company": {
+    "name": "Blife Healthy Co., Ltd.",
+    "name_th": "บริษัท ไบไลฟ์ เฮลตี้ จำกัด",
+    "description": "Leading health and wellness products distributor in Thailand",
+    "description_th": "ผู้นำด้านการจัดจำหน่ายผลิตภัณฑ์สุขภาพและความงามในประเทศไทย",
+    "logo": "/assets/images/logo.png",
+    "address": {
+      "street": "123 ถนนสุขุมวิท แขวงคลองเตย เขตคลองเตย",
+      "city": "กรุงเทพมหานคร",
+      "province": "กรุงเทพมหานคร",
+      "zipCode": "10110",
+      "country": "ประเทศไทย"
+    },
+    "contact": {
+      "phone": "+66-2-123-4567",
+      "email": "info@blifehealthy.com",
+      "website": "https://www.blifehealthy.com",
+      "social": {
+        "facebook": "https://facebook.com/blifehealthy",
+        "instagram": "https://instagram.com/blifehealthy",
+        "line": "@blifehealthy"
+      }
+    },
+    "business_info": {
+      "tax_id": "0123456789012",
+      "registration_number": "0101234567890",
+      "established": "2020",
+      "employees": "50+"
+    }
+  },
+  "settings": {
+    "currency": {
+      "code": "THB",
+      "symbol": "฿",
+      "position": "before",
+      "decimal_places": 2
+    },
+    "tax": {
+      "vat_rate": 7,
+      "vat_included": false,
+      "shipping_tax": false
+    },
+    "shipping": {
+      "free_threshold": 1000,
+      "methods": [
+        {
+          "id": "standard",
+          "name": "ไปรษณีย์ไทย",
+          "name_th": "ไปรษณีย์ไทย",
+          "cost": 50,
+          "estimated_days": "3-5"
+        },
+        {
+          "id": "express",
+          "name": "Kerry Express",
+          "name_th": "เคอร์รี เอ็กซ์เพรส",
+          "cost": 100,
+          "estimated_days": "1-2"
+        }
+      ]
+    },
+    "payment": {
+      "methods": [
+        {
+          "id": "bank_transfer",
+          "name": "โอนผ่านธนาคาร",
+          "name_th": "โอนผ่านธนาคาร",
+          "enabled": true,
+          "fee": 0
+        },
+        {
+          "id": "credit_card",
+          "name": "บัตรเครดิต",
+          "name_th": "บัตรเครดิต",
+          "enabled": true,
+          "fee": 2.5
+        },
+        {
+          "id": "cod",
+          "name": "ชำระปลายทาง",
+          "name_th": "ชำระปลายทาง",
+          "enabled": true,
+          "fee": 20
+        }
+      ]
+    }
+  },
+  "features": {
+    "multilingual": true,
+    "multi_vendor": true,
+    "inventory_management": true,
+    "order_tracking": true,
+    "customer_reviews": true,
+    "coupon_system": true,
+    "analytics": true
+  },
+  "theme": {
+    "primary_color": "#28a745",
+    "secondary_color": "#6c757d",
+    "accent_color": "#007bff",
+    "success_color": "#28a745",
+    "warning_color": "#ffc107",
+    "danger_color": "#dc3545"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "baseUrl": "https://api.example.com",
+  "endpoints": {
+    "users": "/api/users",
+    "products": "/api/products",
+    "categories": "/api/categories",
+    "orders": "/api/orders",
+    "attributes": "/api/attributes",
+    "roles": "/api/roles",
+    "permissions": "/api/permissions"
+  },
+  "auth": {
+    "token": "your-api-token-here",
+    "type": "Bearer"
+  },
+  "timeout": 10000,
+  "retry": {
+    "attempts": 3,
+    "delay": 1000
+  }
+}
