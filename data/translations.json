@@ -1,0 +1,200 @@
+{
+  "pages": {
+    "index": {
+      "title": "แดชบอร์ด - Blife ระบบจัดการหลังบ้าน",
+      "header": {
+        "search_placeholder": "ค้นหา Blife ..",
+        "notifications_title": "การแจ้งเตือน",
+        "notifications": [
+          "กำลังดำเนินการจัดส่ง",
+          "คำสั่งซื้อเสร็จสิ้น",
+          "ตั๋วสนับสนุนได้รับการสร้าง",
+          "จัดส่งเสร็จสิ้น"
+        ],
+        "check_all": "ตรวจสอบการแจ้งเตือนทั้งหมด",
+        "profile_menu": {
+          "users": "ผู้ใช้",
+          "orders": "คำสั่งซื้อ",
+          "support_tickets": "ตั๋วสนับสนุน",
+          "settings": "การตั้งค่า",
+          "logout": "ออกจากระบบ"
+        }
+      },
+      "sidebar": {
+        "dashboard": "แดชบอร์ด",
+        "product": "สินค้า",
+        "products": "สินค้า",
+        "add_new_product": "เพิ่มสินค้าใหม่",
+        "category": "หมวดหมู่",
+        "category_list": "รายการหมวดหมู่",
+        "add_new_category": "เพิ่มหมวดหมู่ใหม่",
+        "attributes": "คุณลักษณะ",
+        "attributes_list": "คุณลักษณะ",
+        "add_attributes": "เพิ่มคุณลักษณะ",
+        "users": "ผู้ใช้",
+        "all_users": "ผู้ใช้ทั้งหมด",
+        "add_new_user": "เพิ่มผู้ใช้ใหม่",
+        "roles": "บทบาท",
+        "all_roles": "บทบาททั้งหมด",
+        "create_role": "สร้างบทบาท",
+        "media": "สื่อ",
+        "orders": "คำสั่งซื้อ",
+        "order_list": "รายการคำสั่งซื้อ",
+        "order_detail": "รายละเอียดคำสั่งซื้อ",
+        "order_tracking": "ติดตามคำสั่งซื้อ",
+        "localization": "การแปลภาษา",
+        "translation": "การแปล",
+        "currency_rates": "อัตราแลกเปลี่ยน",
+        "coupons": "คูปอง",
+        "coupon_list": "รายการคูปอง",
+        "create_coupon": "สร้างคูปอง",
+        "tax": "ภาษี",
+        "product_review": "รีวิวสินค้า",
+        "support_ticket": "ตั๋วสนับสนุน",
+        "settings": "การตั้งค่า",
+        "profile_setting": "การตั้งค่าโปรไฟล์",
+        "reports": "รายงาน",
+        "list_page": "หน้ารายการ"
+      },
+      "main": {
+        "welcome": "ยินดีต้อนรับสู่ Blife",
+        "total_sales": "ยอดขายรวม",
+        "total_orders": "คำสั่งซื้อทั้งหมด",
+        "total_customers": "ลูกค้าทั้งหมด",
+        "total_products": "สินค้าทั้งหมด"
+      },
+      "footer": {
+        "copyright": "ลิขสิทธิ์ 2025 © Blife theme โดย pixelstrap"
+      },
+      "modals": {
+        "logout_title": "กำลังออกจากระบบ",
+        "logout_message": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+        "no": "ไม่",
+        "yes": "ใช่"
+      }
+    },
+    "add-new-attributes": {
+      "title": "Blife - เพิ่มคุณลักษณะ",
+      "header": {
+        "search_placeholder": "ค้นหา Blife ..",
+        "notifications_title": "การแจ้งเตือน",
+        "notifications": [
+          "กำลังดำเนินการจัดส่ง",
+          "คำสั่งซื้อเสร็จสิ้น"
+        ],
+        "check_all": "ตรวจสอบการแจ้งเตือนทั้งหมด",
+        "profile_menu": {
+          "users": "ผู้ใช้",
+          "orders": "คำสั่งซื้อ",
+          "support_tickets": "ตั๋วสนับสนุน",
+          "settings": "การตั้งค่า",
+          "logout": "ออกจากระบบ"
+        }
+      },
+      "sidebar": {
+        "dashboard": "แดชบอร์ด",
+        "product": "สินค้า",
+        "products": "สินค้า",
+        "add_new_product": "เพิ่มสินค้าใหม่",
+        "category": "หมวดหมู่",
+        "category_list": "รายการหมวดหมู่",
+        "add_new_category": "เพิ่มหมวดหมู่ใหม่",
+        "attributes": "คุณลักษณะ",
+        "attributes_list": "คุณลักษณะ",
+        "add_attributes": "เพิ่มคุณลักษณะ",
+        "users": "ผู้ใช้",
+        "all_users": "ผู้ใช้ทั้งหมด",
+        "add_new_user": "เพิ่มผู้ใช้ใหม่",
+        "roles": "บทบาท",
+        "all_roles": "บทบาททั้งหมด",
+        "create_role": "สร้างบทบาท",
+        "media": "สื่อ",
+        "orders": "คำสั่งซื้อ",
+        "order_list": "รายการคำสั่งซื้อ",
+        "order_detail": "รายละเอียดคำสั่งซื้อ",
+        "order_tracking": "ติดตามคำสั่งซื้อ",
+        "localization": "การแปลภาษา",
+        "translation": "การแปล",
+        "currency_rates": "อัตราแลกเปลี่ยน",
+        "coupons": "คูปอง",
+        "coupon_list": "รายการคูปอง",
+        "create_coupon": "สร้างคูปอง",
+        "tax": "ภาษี",
+        "product_review": "รีวิวสินค้า",
+        "support_ticket": "ตั๋วสนับสนุน",
+        "settings": "การตั้งค่า",
+        "profile_setting": "การตั้งค่าโปรไฟล์",
+        "reports": "รายงาน",
+        "list_page": "หน้ารายการ"
+      },
+      "main": {
+        "add_attribute": "เพิ่มคุณลักษณะ",
+        "attribute_name": "ชื่อคุณลักษณะ",
+        "attribute_value": "ค่าคุณลักษณะ",
+        "attribute_name_placeholder": "ชื่อคุณลักษณะ",
+        "attribute_value_placeholder": "ค่าคุณลักษณะ",
+        "remove": "ลบ",
+        "add_value": "เพิ่มค่า",
+        "add_attribute_button": "เพิ่มคุณลักษณะ"
+      },
+      "footer": {
+        "copyright": "ลิขสิทธิ์ 2025 © Blife theme โดย pixelstrap"
+      },
+      "modals": {
+        "logout_title": "กำลังออกจากระบบ",
+        "logout_message": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+        "no": "ไม่",
+        "yes": "ใช่"
+      }
+    }
+  },
+  "common": {
+    "buttons": {
+      "save": "บันทึก",
+      "edit": "แก้ไข",
+      "delete": "ลบ",
+      "cancel": "ยกเลิก",
+      "add": "เพิ่ม",
+      "search": "ค้นหา",
+      "filter": "กรอง",
+      "export": "ส่งออก",
+      "import": "นำเข้า"
+    },
+    "status": {
+      "active": "ใช้งาน",
+      "inactive": "ไม่ใช้งาน",
+      "pending": "รอดำเนินการ",
+      "completed": "เสร็จสิ้น",
+      "cancelled": "ยกเลิก"
+    },
+    "messages": {
+      "success": "สำเร็จ",
+      "error": "เกิดข้อผิดพลาด",
+      "warning": "คำเตือน",
+      "info": "ข้อมูล"
+    }
+  },
+  "pages": {
+    "add-new-user": {
+      "title": "Blife - เพิ่มผู้ใช้ใหม่",
+      "main": {
+        "account_info": "ข้อมูลบัญชี",
+        "first_name": "ชื่อ",
+        "last_name": "นามสกุล",
+        "email": "อีเมล",
+        "phone": "เบอร์โทร",
+        "role": "บทบาท",
+        "password": "รหัสผ่าน",
+        "confirm_password": "ยืนยันรหัสผ่าน",
+        "user": "ผู้ใช้"
+      }
+    },
+    "create-role": {
+      "title": "Blife - สร้างบทบาท",
+      "main": {
+        "role_name": "ชื่อบทบาท",
+        "permissions": "สิทธิ์การใช้งาน"
+      }
+    }
+  }
+}
